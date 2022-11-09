@@ -14,6 +14,6 @@ I am a student at Allegheny College, seeking for an internship position in the f
 
 I am from Guatemala, I love playing sports, specially soccer.
 
-This project is open source so that hopefully someone else can use this as a template (or reference) in building their own site. Technical details about my projects can be found in [Github repo](https://github.com/EstebanMendez01) and some other information about me can be found in my [LinkedIn](https://linkedin.com/in/juan-esteban-mendez-reyes).
+Technical details about my projects can be found in [Github repo](https://github.com/EstebanMendez01) and some other information about me can be found in my [LinkedIn](https://linkedin.com/in/juan-esteban-mendez-reyes).
 
 ![Picture of me](/assets/img/icon-sidebar.png "Picture of me")

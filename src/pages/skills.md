@@ -3,7 +3,7 @@ title: Skills
 date: 2021-01-01
 permalink: /skills/index.html
 metaDescription: A sample Projects page
-subtitle: Here you can find some of the projects that I have implemented.
+subtitle: Here you can find some of the skills that I have.
 emoji: 💻
 eleventyNavigation:
   key: Skills

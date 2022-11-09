@@ -1,13 +1,11 @@
 ---
-title: Vue Date Picker
+title: Terminal
 emoji: 🗓
 metaDescription: This is a sample meta description. If one is not present in your page/project's front matter, the default metadata.desciption will be used instead.
 date: 2019-01-01T00:00:00.000Z
-summary: This is a Vue component I made
+summary: This is a Terminal I made
 tags:
-  - javascript
-  - vue
-  - aws
+  - python
 ---
 
 ### Task
@@ -16,4 +14,4 @@ Leverage agile frameworks to provide a robust synopsis for high level overviews.
 
 ### Solution
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.[Github REPO](https://github.com/EstebanMendez01/ScientificCalculator)
