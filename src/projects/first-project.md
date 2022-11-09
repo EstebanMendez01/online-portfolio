@@ -12,11 +12,11 @@ tags:
 
 ### Task
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Connect Web Development with different people in the world, not only knowing english as I am Guatemalan. So that everyone can connect.
 
 ### Solution
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+The chat was created with the import and use of Google Translate API, in which handles the translation of the whole website, chat, that the people are using. Also, emojis are available to the public and can be used for showing emotions in the chat. Connecting cultures.
 
 #### Link to REPO
 [Chat](https://github.com/EstebanMendez01/Chat)
