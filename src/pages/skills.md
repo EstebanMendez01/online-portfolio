@@ -11,4 +11,26 @@ eleventyNavigation:
 ---
 
 
-# hello
+## Software/Platforms
+- Java
+- SQL
+- C++
+- JavaScript
+- HTML
+- CSS
+- C
+- Python
+- React
+- Markdown
+- SQL
+- Next
+
+
+---
+## Soft skills
+
+- Committed
+- Professional
+- Innovative
+- Punctual
+- Responsible
