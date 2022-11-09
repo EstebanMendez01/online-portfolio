@@ -8,6 +8,8 @@ emoji: 💻
 eleventyNavigation:
   key: Skills
   order: 2
+tags:
+  - C
 ---
 
 
