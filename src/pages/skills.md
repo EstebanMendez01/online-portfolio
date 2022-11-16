@@ -13,7 +13,8 @@ tags:
 ---
 
 
- ## Software/Platforms 
+ ||## Software/Platforms|
+ |--------||---------|---------|
  | Java | SQL | C++ |
  | JavaScript | HTML| CSS |
  | C | Python | React |
