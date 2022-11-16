@@ -13,12 +13,12 @@ tags:
 ---
 
 
- ||## Software/Platforms|
- |--------||---------|---------|
- | Java | SQL | C++ |
- | JavaScript | HTML| CSS |
- | C | Python | React |
- | Markdown | SQL | Next |
+|## Software/Platforms|
+|--------||---------|---------|
+| Java | SQL | C++ |
+| JavaScript | HTML| CSS |
+| C | Python | React |
+| Markdown | SQL | Next |
 
 
 ---
