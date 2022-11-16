@@ -13,7 +13,8 @@ tags:
 ---
 
 
-|## Software/Platforms|
+## Software/Platforms
+| Programming Languages|
 |--------||---------|---------|
 | Java | SQL | C++ |
 | JavaScript | HTML| CSS |
