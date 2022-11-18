@@ -16,4 +16,4 @@ I am from Guatemala, I love playing soccer.
 
 Technical details about my projects can be found in [Github repo](https://github.com/EstebanMendez01) and some other information about me can be found in my [LinkedIn](https://linkedin.com/in/juan-esteban-mendez-reyes).
 
-<img src="pic.png" alt="Picture of me!" width="320" height="320">
+<img src="/assets/img/pic.png" alt="Picture of me!" width="320" height="320">
