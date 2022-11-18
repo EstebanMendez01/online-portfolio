@@ -14,18 +14,20 @@ tags:
 
 
 ## Software/Platforms
-- Java
-- SQL
-- C++
-- JavaScript
-- HTML
-- CSS
-- C
-- Python
-- React
-- Markdown
-- SQL
-- Next
+
+| Programming Languages|Proficiency|
+|--------|---------|
+| Java | ⭐⭐ |
+| SQL | ⭐⭐⭐⭐ |
+| C++ |⭐⭐⭐ |
+| JavaScript | ⭐⭐⭐ |
+| HTML| ⭐⭐⭐⭐ |
+| CSS |⭐⭐⭐⭐ |
+| C | ⭐⭐⭐⭐⭐ |
+| Python | ⭐⭐⭐⭐⭐ |
+| React |⭐⭐ |
+| Markdown | ⭐⭐⭐⭐⭐ |
+| Next | ⭐ |
 
 
 ---
