@@ -2,31 +2,41 @@
 layout: base.njk
 section: home
 ---
+
 <div class="home-page">
-	<div class="home-page__bg-square"></div>
+    <div class="home-page__bg-square"></div>
 
-  {# Hero #}
-  <div class="hero">
-    <div class="hero__col">
-      <h1 class="hero__title gradient-text">{{ home.title }}</h1>
-      {% if home.body %}
-        <div class="hero__body">{{ home.body | markdown | safe }}</div>
-      {% endif %}
-    </div>
-    <div class="hero__col">
-      {% Image
-        home.image,
-        home.image_alt,
-        "(min-width: 1024px) 50vw, 100vw",
-        "hero__image shadow",
-        "eager"
-      %}
-    </div>
-  </div>
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <h1 class="hero__title gradient-text">{{ home.title }}</h1>
+                    {% if home.body %}
+                    <div class="hero__body">{{ home.body | markdown | safe }}</div>
+                    {% endif %}
+                    <a href="/projects" class="btn btn-primary">View Projects</a>
+                </div>
+                <div class="col-md-6">
+                    {% Image
+                    home.image,
+                    home.image_alt,
+                    "(min-width: 1024px) 50vw, 100vw",
+                    "hero__image shadow",
+                    "eager"
+                    %}
+                </div>
+            </div>
+        </div>
+    </section>
 
-  {# Projects #}
-  <hr/>
-  <h2>Projects</h2>
-  {% from "macros/projectlist.njk" import projectlist %}
-  {{ projectlist(projects = collections.project | reverse) }}
+    <!-- Projects Section -->
+    <section class="projects">
+        <div class="container">
+            <h2 class="section-title">Featured Projects</h2>
+            {% from "macros/projectlist.njk" import projectlist %}
+            {{ projectlist(projects = collections.project | slice(0, 3) | reverse) }}
+            <a href="/projects" class="btn btn-secondary">View All Projects</a>
+        </div>
+    </section>
 </div>
